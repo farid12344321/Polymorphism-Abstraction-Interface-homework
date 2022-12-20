@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Service  and İnterface/1.0.0": {
+        "runtime": {
+          "Service  and İnterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Service  and İnterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

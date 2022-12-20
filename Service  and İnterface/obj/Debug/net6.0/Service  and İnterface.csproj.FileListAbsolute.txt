@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Service  and İnterface\Service  and İnterface\bin\Debug\net6.0\Service  and İnterface.exe
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Service  and İnterface\Service  and İnterface\bin\Debug\net6.0\Service  and İnterface.deps.json
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Service  and İnterface\Service  and İnterface\bin\Debug\net6.0\Service  and İnterface.runtimeconfig.json
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Service  and İnterface\Service  and İnterface\bin\Debug\net6.0\Service  and İnterface.dll
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Service  and İnterface\Service  and İnterface\bin\Debug\net6.0\Service  and İnterface.pdb
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Service  and İnterface\Service  and İnterface\obj\Debug\net6.0\Service  and İnterface.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Service  and İnterface\Service  and İnterface\obj\Debug\net6.0\Service  and İnterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Service  and İnterface\Service  and İnterface\obj\Debug\net6.0\Service  and İnterface.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Service  and İnterface\Service  and İnterface\obj\Debug\net6.0\Service  and İnterface.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Service  and İnterface\Service  and İnterface\obj\Debug\net6.0\Service  and İnterface.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Service  and İnterface\Service  and İnterface\obj\Debug\net6.0\Service  and İnterface.dll
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Service  and İnterface\Service  and İnterface\obj\Debug\net6.0\refint\Service  and İnterface.dll
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Service  and İnterface\Service  and İnterface\obj\Debug\net6.0\Service  and İnterface.pdb
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Service  and İnterface\Service  and İnterface\obj\Debug\net6.0\Service  and İnterface.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Service  and İnterface\Service  and İnterface\obj\Debug\net6.0\ref\Service  and İnterface.dll
